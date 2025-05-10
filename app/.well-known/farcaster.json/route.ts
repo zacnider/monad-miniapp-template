@@ -1,3 +1,4 @@
+//app/.well-known/farcaster.json/route.ts
 import { NextResponse } from "next/server";
 import { APP_URL } from "../../../lib/constants";
 
